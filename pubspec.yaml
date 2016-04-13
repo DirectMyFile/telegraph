@@ -1,0 +1,5 @@
+name: telegraph
+author: Michael Bullington <michael@bullington.xyz>
+version: 1.0.0
+dependencies:
+  msgpack: '>=0.4.0 <0.5.0'

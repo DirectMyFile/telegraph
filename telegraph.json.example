@@ -1,0 +1,10 @@
+{
+  "port": 7777,
+  "bots": [
+    {
+      "endpoint": "woodhouse",
+      "access_token": "blalala get this from your Facebook Apps dashboard",
+      "verify_token": "shh it's a secret"
+    }
+  ]
+}
